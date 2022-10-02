@@ -6,7 +6,7 @@ let about = {
   profile: {
     pronouns: 'he/him',
     education: 'senior college student @ de la salle - college of saint benilde',
-    currently: 'intern @ dashlabs.ai, finishing my thesis',
+    currently: 'swe intern @ dashlabs.ai, finishing my thesis',
     previously: 'web development editor @ ad astra',
   },
   interests: ['creating solutions to problems', 'web development', 'learning new things'],
