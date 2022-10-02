@@ -1,5 +1,22 @@
-<h1 align="center"> Hi there! My name's Joshua Sintos :grin: </h1>
+<h1 align="center">Hi there! My name's Joshy 😄 </h1>
+    
+```javascript
+let about = {
+  name: 'joshua sintos',
+  profile: {
+    pronouns: 'he/him',
+    education: 'senior college student @ de la salle - college of saint benilde',
+    currently: 'intern @ dashlabs.ai, finishing my thesis',
+    previously: 'web development editor @ ad astra',
+  },
+  interests: ['creating solutions to problems', 'web development', 'learning new things'],
+  quote: 'mistakes are the hallmarks of genuine people.',
+};
+```
 
-I'm an aspiring backend developer disguised as a full-time college student. Interests include creating solutions to problems, web development, and learning new things. I spend a lot of my spare time playing video games, learning how to cook dishes other than fried rice, and attempting to fix my body clock.
-
-You can view my resume [here](https://drive.google.com/file/d/1q1xZB5UFz6T5qW5HmYuJx_nY3dQKSxVN/view?usp=sharing) and my portfolio [here](https://jsintos.github.io/).
+<p align="center">
+    <a href="https://jsintos.github.io/" target="_blank">website</a> |
+    <a href="https://github.com/JSintos" target="_blank">github</a> |
+    <a href="https://www.linkedin.com/in/sintosjm/" target="_blank">linkedin</a> |
+    <a href="https://drive.google.com/file/d/1q1xZB5UFz6T5qW5HmYuJx_nY3dQKSxVN/view?usp=sharing" target="_blank">résumé</a>
+</p>
