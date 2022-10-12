@@ -17,6 +17,5 @@ let about = {
 <p align="center">
     <a href="https://jsintos.github.io/" target="_blank">website</a> |
     <a href="https://www.linkedin.com/in/sintosjm/" target="_blank">linkedin</a> |
-    <a href="https://github.com/JSintos" target="_blank">github</a> |
     <a href="https://drive.google.com/file/d/1q1xZB5UFz6T5qW5HmYuJx_nY3dQKSxVN/view?usp=sharing" target="_blank">résumé</a>
 </p>
