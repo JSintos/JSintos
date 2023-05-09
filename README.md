@@ -6,8 +6,8 @@ let about = {
   profile: {
     pronouns: 'he/him',
     education: 'senior college student @ de la salle - college of saint benilde',
-    currently: ['swe intern @ dashlabs.ai', 'waiting to graduate 🎓', 'finding a job'],
-    previously: 'web development editor @ ad astra',
+    currently: ['waiting to graduate 🎓', 'finding a job'],
+    previously: ['web development editor @ ad astra', 'swe intern @ dashlabs.ai']
   },
   interests: ['creating solutions to problems', 'web development', 'learning new things'],
   quote: 'mistakes are the hallmarks of genuine people.',
