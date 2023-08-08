@@ -6,7 +6,7 @@ let about = {
   profile: {
     pronouns: 'he/him',
     currently: ['finding a job'],
-    previously: ['swe intern @ dashlabs.ai', 'web development editor @ ad astra', information systems @ dls-csb]
+    previously: ['swe intern @ dashlabs.ai', 'web development editor @ ad astra', 'information systems @ dls-csb']
   },
   interests: ['creating solutions to problems', 'web development', 'learning new things'],
   quote: 'mistakes are the hallmarks of genuine people.',
