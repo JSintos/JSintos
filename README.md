@@ -5,7 +5,7 @@ let about = {
   name: 'joshua sintos',
   profile: {
     pronouns: 'he/him',
-    currently: [associate software developer @ oracle netsuite],
+    currently: ['associate software developer @ oracle netsuite'],
     previously: ['swe intern @ dashlabs.ai', 'web development editor @ ad astra', 'information systems @ dls-csb']
   },
   interests: ['creating solutions to problems', 'web development', 'learning new things'],
